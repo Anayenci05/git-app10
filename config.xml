@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+﻿<?xml version="1.0" encoding="UTF-8"?>  
 
  <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
@@ -8,7 +8,7 @@
   <name> app10 </name>
   
   <description>
-  Muestra la informacíon sobre El dia mundia de
+  Muestra la informacion sobre dias importantes involucrados con el cuidado del planeta Tierra
   </description>
   
   <author href="https://build.phonegap.com" email="anayenci.lopez.flores.cbtis16@gmail.com">
